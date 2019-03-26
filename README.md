@@ -1,2 +1,2 @@
-# cs231n
+# cs224n
 Workshops on NLP.
